@@ -1,0 +1,39 @@
+.SidebarHeader{
+    text-align: center;
+    margin-bottom: 2px solid grey;
+}
+.profilPic{
+    margin: 10%;
+    width: 100%; 
+    cursor: pointer;
+    box-shadow: 5px 10px;
+}
+.userName h3{
+    margin-left: 14%;
+    cursor: pointer;
+}
+.adress h3 {
+    margin-left: 14%;
+    cursor: pointer;
+    
+}
+.intro p{
+    padding: 5%;
+    text-align: justify;
+}
+.intro h3{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 6%;
+   
+}
+.birth-date h3{
+    margin-left: 15%;
+}
+.interestTitle h3{
+    margin-left: 8%;
+    display: flex;
+}
+.interestList{
+    padding: 5%;
+}

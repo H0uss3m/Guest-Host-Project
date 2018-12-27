@@ -1,0 +1,55 @@
+/* Main Info CSS */
+.main-infos-container{
+    margin-bottom: 2%;
+}
+.main-infos{
+    border:2px solid rgba(0, 0, 0, 0.7);
+    padding:2%;
+}
+.header {
+    border-bottom: 1px solid rgba(189, 195, 199, 0.7);
+}
+.title {
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.5)
+}
+.location{
+    margin-top: -3%;
+    margin-left: 3%;
+}
+.equipement {
+    border-bottom: 1px solid rgba(189, 195, 199, 0.7);
+}
+.equipement-list {
+    display: flex;
+    justify-content: space-between;
+}
+.descreption-box {
+    border-bottom: 1px solid rgba(189, 195, 199, 0.7);   
+}
+.contact {
+    margin-top:2%;
+}
+.rules-list {
+    display: flex;
+    justify-content: space-between;
+}
+/* Profil Css */
+/* .profil-box {
+    border:2px solid rgba(0, 0, 0, 0.7);
+} */
+.main-host-img img {
+    width: 100%;
+
+}
+.stars {
+    font-size:22px;
+    margin-top:5%;
+    align-self: center;
+}
+.host-img img {
+    width: 170%;  
+}
+.host-img-container {
+    margin-bottom: 2%;
+}
