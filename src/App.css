@@ -1,0 +1,8 @@
+.App {
+  background-color: rgb(241,237,234);
+}
+.editBtn {
+  display:flex;
+  justify-content: flex-end;
+  padding: 3%;
+}
